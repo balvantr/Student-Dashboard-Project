@@ -1,0 +1,19 @@
+Student Dashboard Insights
+
+Science (78.1%) and Gujarati (76.9%) are the strongest subjects, while English (72.8%) and Mathematics (73.0%) need the most attention.
+
+Over 52% of doubts remain unresolved, which could directly affect student confidence and scores.
+
+Doubts are concentrated in Gujarati writing and Science topics like Pollution and Electricity.
+
+Students with better attendance consistently score higher and raise fewer doubts.
+
+Low attendance students show weaker test performance and more doubts, highlighting attendance as a key success factor.
+
+High-performing students are regular in attendance and require less doubt support, showing strong concept clarity.
+
+Immediate action is required in English & Math support and improving doubt resolution to uplift overall performance.
+
+Monitoring low-attendance students and providing targeted help will improve class performance.
+
+
